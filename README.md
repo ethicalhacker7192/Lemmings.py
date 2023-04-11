@@ -46,6 +46,7 @@ I am still working on making this compatible with mac so all those with their ma
 I am not promising anything including the development of AI, I am simply stating my intentions for the future if the time ever comes. For now do not get your hopes up.
 I did not create this software and I give all credit to <a href="https://github.com/tomsoftware">tomsoftware</a>, without these people, this project would not exist: 
 
+    TomSoftware for the Lemmings.ts
     DMA for the original game
     Volker Oth, ccexplore and Mindless for their work on reverse engineering the Lemmings Level and Grafic Formats
     DosBox for there OPL emulator
