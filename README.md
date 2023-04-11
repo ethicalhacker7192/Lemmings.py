@@ -5,14 +5,14 @@ Lemmings.ts converted to python.
 This python game was made for AI but that is for the future, for now I am still converting and maybe later I will have a version with AI integrated into it. We will have to wait as I will update this README.md when I am finished as this will just be for fun.
 
 ## How To Install
-ubuntu linux installation:
+Linux installation:
 
     git clone https://github.com/ethicalhacker7192/Lemmings.py
     cd Lemmings.py
     python3 -m pip install -r requirements.txt
 
 note:
-this is assuming you have python3 installed and you are running ubuntu linux. I will start working on making this project work on many different linux distrobutions so be patient if your distrobution is not compatible. If python3 is not installed run the code below to install python3 in ubuntu linux:
+this is assuming you have python3 installed and you are running compatible versions of linux. I will start working on making this project work on many different linux distrobutions so be patient if your distrobution is not compatible. If python3 is not installed run the code below to install python3 in ubuntu linux:
 
     sudo apt install python3
 
@@ -20,7 +20,7 @@ windows installation:
 
 first save this project as a zip and then unzip it. then run the following commands in your command prompt:
 
-    cd [path to project]
+    cd [path to Lemmings.py]
     py -m pip install -r requirements.txt
 
 note: this is assuming you have the latest python release downloaded if not go to the official website <a href="https://python.org/downloads">(python.org)</a> and download the latest version.
@@ -34,6 +34,9 @@ windows:
 
     py game.py
 
+
+## Patience
+I am still working on the conversion, please check back later and soon I will have all the code.
 
 ## Issues
 If you have any issues do not be shy to post your issues into the issues page as I will try to fix/resolve the issues.
