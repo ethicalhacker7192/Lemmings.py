@@ -1,5 +1,5 @@
 # Lemmings.py
-Lemmings.ts converted to python.
+Lemmings.js converted to python.
 
 ## Reason
 This python game was made for AI but that is for the future, for now I am still converting and maybe later I will have a version with AI integrated into it. We will have to wait as I will update this README.md when I am finished as this will just be for fun.
@@ -42,11 +42,12 @@ I am still working on the conversion, please check back later and soon I will ha
 If you have any issues do not be shy to post your issues into the issues page as I will try to fix/resolve the issues.
 
 ## DISCLAIMER: 
+I am not taking any credit for this game, that will be rewarded to the original software company DMA.
 I am still working on making this compatible with mac so all those with their macbooks be patient as I get it taylored for macbooks as well!
 I am not promising anything including the development of AI, I am simply stating my intentions for the future if the time ever comes. For now do not get your hopes up.
 I did not create this software and I give all credit to <a href="https://github.com/tomsoftware">tomsoftware</a>, without these people, this project would not exist: 
 
-    TomSoftware for the Lemmings.ts
+    TomSoftware for the original Lemmings.js
     DMA for the original game
     Volker Oth, ccexplore and Mindless for their work on reverse engineering the Lemmings Level and Grafic Formats
     DosBox for there OPL emulator
