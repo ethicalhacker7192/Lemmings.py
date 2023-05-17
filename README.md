@@ -50,4 +50,4 @@ I did not create this software and I give all credit to <a href="https://github.
     TomSoftware for the original Lemmings.js
     DMA for the original game
     Volker Oth, ccexplore and Mindless for their work on reverse engineering the Lemmings Level and Grafic Formats
-    DosBox for there OPL emulator
+    DosBox for their OPL emulator
